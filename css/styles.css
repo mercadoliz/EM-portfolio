@@ -517,8 +517,16 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: 250px;
+  height: 225px;
   box-shadow: 4px 4px 5px 0px #424040;
+}
+
+.img {
+  width: 125px;
+  height: 250px;
+  align-items: center;
+
+
 }
 
 .img-thumbnail {
